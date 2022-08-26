@@ -1,2 +1,3 @@
-# data-science-exercises
-Here are some projects I've been working on to learn data science.
+### Data Science Projects
+
+Different data science projects to learn data science.
